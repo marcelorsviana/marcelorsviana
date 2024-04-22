@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcelorsviana
-- 👀 I’m interested in developing for <b>Android</b> using the <b>Kotlin</b> language.
-- 🌱 I’m currently focused in learning <b>Kotlin</b> and <b>Android</b>.
-- 💞️ I’m looking to collaborate on any project related to <b>Android</b>, which uses <b>Kotlin</b>.
+- 👀 I’m interested in developing for <b>.NET</b>.
+- 🌱 I’m currently focused in learning <b>C#</b>.
+- 💞️ I’m looking to collaborate on any project related to <b>.NET/b>.
 - 📫 You can also reach me through my LinkedIn - https://www.linkedin.com/in/marcelo-r-s-viana/
 
 <!---
